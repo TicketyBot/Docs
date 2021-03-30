@@ -30,4 +30,6 @@ jobs:
         USERNAME: ${{ secrets.USER }}
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.KEY }}
-        script: vuepress build src
+        script: |
+          cd /var/www/docs
+          vuepress build src
