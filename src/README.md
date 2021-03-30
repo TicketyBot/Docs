@@ -12,6 +12,9 @@ Tickety is free to use for everyone, however we offer a premium version of Ticke
 We ask a small price for Tickety premium so that we are able to keep hosting and updating the bot.
 Learn more about premium [here](/premium/).
 
+## Enterprise
+After Premium, there is also the Enterprise plan. This plan is designed for those who are looking to get the most out of Tickety. While currently not available, more information on this plan is coming following soon.
+
 ## Our Team
 | Name | Role |
 | :--- | :--: |
