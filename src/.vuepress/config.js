@@ -25,6 +25,10 @@ module.exports = {
             {
                 text: 'Webpanel',
                 link: '/webpanel/'
+            },
+            {
+            	text: 'Enterprise',
+            	link: '/enterprise/'
             }
         ],
         sidebar: 'auto'
